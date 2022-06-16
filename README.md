@@ -1,13 +1,13 @@
-# Diabetes Detection
+## Diabetes Detection
 -
 -
 -
 ---
-# Live Demo
+## Live Demo
 [Diabetes Detection](https://reliance-fyp.github.io/Diabetes-Detection/)
 ---
 
-# Underlying Biology
+## Underlying Biology
 -
 -
 -
