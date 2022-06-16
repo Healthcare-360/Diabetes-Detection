@@ -2,6 +2,7 @@
 -
 -
 -
-
+---
 # Live Demo
-[Live Demo](https://reliance-fyp.github.io/Diabetes-Detection/)
+[Diabetes Detection](https://reliance-fyp.github.io/Diabetes-Detection/)
+---
