@@ -18,3 +18,6 @@
 
 ### Performance of Trained Model
 ![Performance of Trained Model](https://raw.githubusercontent.com/Reliance-FYP/Diabetes-Detection/main/Performance%20diabetes.png)
+
+### Dataset
+[Dataset Kaggle](https://www.kaggle.com/amanneo/diabetic-retinopathy-resized-arranged)
